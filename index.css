@@ -110,7 +110,7 @@ main {  display: grid;
 .afleveringen h1 {
     color: #ecb365;
     font-size: 2.5rem;
-    margin: 2rem 2rem 0rem 2rem;
+    margin: 1rem 2rem 0rem 2rem;
     text-transform: uppercase;
 }
 
@@ -141,4 +141,7 @@ main {  display: grid;
 
 .afleveringen { grid-area: afleveringen; }
 
+.afleveringen ul {
+  margin: 0rem 0rem 2rem 0rem;
+}
 	}
