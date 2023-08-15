@@ -67,6 +67,10 @@ main {
   overflow-y: scroll;
 }*/
 
+.afleveringen ul {
+    margin: 0rem 0rem 1rem 0rem;
+  }
+
 .afleveringen li {
     background-color: #064663;
     padding: 2rem;
@@ -82,7 +86,20 @@ main {
     transition: 0.5s;
 }
 
-@media screen and (max-width: 1222px) {
+.socials {
+    margin: 0rem 0rem 2rem 0rem;
+    color: #fff;
+}
+
+.socials a {
+    color: #fff;
+}
+
+.socials img {
+    width: 3.5rem;
+}
+
+@media screen and (max-width: 1122px) {
 main {  display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr 1fr;
@@ -142,6 +159,11 @@ main {  display: grid;
 .afleveringen { grid-area: afleveringen; }
 
 .afleveringen ul {
-  margin: 0rem 0rem 2rem 0rem;
+  margin: 0rem 0rem 1rem 0rem;
+}
+
+.socials {
+    margin: 0rem 0rem 2rem 1rem;
+    color: #fff;
 }
 	}
