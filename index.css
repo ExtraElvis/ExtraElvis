@@ -35,8 +35,14 @@ h2 {
 }
 
 P {
-    margin-top: 1rem;
     text-align: center;
+}
+
+span {
+    color: rgb(183, 183, 183);
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
 }
 
 main {  
