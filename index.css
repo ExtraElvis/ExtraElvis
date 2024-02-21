@@ -60,12 +60,13 @@ main {
 }
 
 .flyer img {
-    width: 38vw;
+    width: 69vw;
     height: auto;
 }
 
 .afleveringen { 
     grid-area: afleveringen; 
+    margin: 0.5rem;
 }
 
 .afleveringen h1 {
@@ -85,7 +86,7 @@ main {
 }*/
 
 .afleveringen ul {
-    margin: 0rem 0rem 1rem 0rem;
+    margin: 0rem 0rem 1rem 1rem;
   }
 
 .afleveringen li {
@@ -141,6 +142,7 @@ main {  display: grid;
 
 .afleveringen { 
     grid-area: afleveringen; 
+    margin: 0;
 }
 
 .afleveringen h1 {
