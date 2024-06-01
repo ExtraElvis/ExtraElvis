@@ -97,6 +97,7 @@ main {
     color: #fff;
     list-style: none;
     border-radius: 5px;
+    text-align: center;
 }
 
 .afleveringen li:hover {
