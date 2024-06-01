@@ -161,6 +161,7 @@ main {  display: grid;
     color: #fff;
     list-style: none;
     border-radius: 5px;
+    text-align: center;
 }
 
 .socials {
