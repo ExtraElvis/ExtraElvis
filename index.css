@@ -62,6 +62,8 @@ main {
 .flyer img {
     width: 46vw;
     height: auto;
+    position: sticky;
+    top: 0;
 }
 
 .afleveringen { 
