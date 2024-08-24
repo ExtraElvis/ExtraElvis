@@ -60,8 +60,8 @@ main {
 }
 
 .flyer img {
-    width: 68vw;
-    height: auto;
+    width: auto;
+    height: 46vw;
     position: sticky;
     top: 0;
 }
