@@ -61,7 +61,7 @@ main {
 
 .flyer img {
     width: auto;
-    height: 46vw;
+    height: 36vw;
     position: sticky;
     top: 0;
 }
@@ -178,7 +178,6 @@ main {  display: grid;
 .socials img {
     width: 3.5rem;
 }
-
 	}
 
 @media screen and (max-width: 744px) {
