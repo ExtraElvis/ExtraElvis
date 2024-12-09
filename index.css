@@ -62,6 +62,7 @@ main {
 .flyer img {
     width: auto;
     height: 36vw;
+    object-fit: contain;
     position: sticky;
     top: 0;
 }
